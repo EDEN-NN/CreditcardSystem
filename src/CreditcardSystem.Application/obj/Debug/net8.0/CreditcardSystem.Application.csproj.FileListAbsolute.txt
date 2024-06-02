@@ -1,0 +1,15 @@
+C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Application\bin\Debug\net8.0\CreditcardSystem.Application.deps.json
+C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Application\bin\Debug\net8.0\CreditcardSystem.Application.dll
+C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Application\bin\Debug\net8.0\CreditcardSystem.Application.pdb
+C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Application\bin\Debug\net8.0\CreditcardSystem.Domain.dll
+C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Application\bin\Debug\net8.0\CreditcardSystem.Domain.pdb
+C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Application\obj\Debug\net8.0\CreditcardSystem.Application.csproj.AssemblyReference.cache
+C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Application\obj\Debug\net8.0\CreditcardSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Application\obj\Debug\net8.0\CreditcardSystem.Application.AssemblyInfoInputs.cache
+C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Application\obj\Debug\net8.0\CreditcardSystem.Application.AssemblyInfo.cs
+C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Application\obj\Debug\net8.0\CreditcardSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Application\obj\Debug\net8.0\Creditca.830DF34A.Up2Date
+C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Application\obj\Debug\net8.0\CreditcardSystem.Application.dll
+C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Application\obj\Debug\net8.0\refint\CreditcardSystem.Application.dll
+C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Application\obj\Debug\net8.0\CreditcardSystem.Application.pdb
+C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Application\obj\Debug\net8.0\ref\CreditcardSystem.Application.dll

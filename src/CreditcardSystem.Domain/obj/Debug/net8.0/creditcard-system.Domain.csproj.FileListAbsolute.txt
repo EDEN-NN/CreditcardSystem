@@ -1,0 +1,11 @@
+C:\Users\waliv\Projetos\dotnet\creditcard-system\src\creditcard-system.Domain\bin\Debug\net8.0\creditcard-system.Domain.deps.json
+C:\Users\waliv\Projetos\dotnet\creditcard-system\src\creditcard-system.Domain\bin\Debug\net8.0\creditcard-system.Domain.dll
+C:\Users\waliv\Projetos\dotnet\creditcard-system\src\creditcard-system.Domain\bin\Debug\net8.0\creditcard-system.Domain.pdb
+C:\Users\waliv\Projetos\dotnet\creditcard-system\src\creditcard-system.Domain\obj\Debug\net8.0\creditcard-system.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waliv\Projetos\dotnet\creditcard-system\src\creditcard-system.Domain\obj\Debug\net8.0\creditcard-system.Domain.AssemblyInfoInputs.cache
+C:\Users\waliv\Projetos\dotnet\creditcard-system\src\creditcard-system.Domain\obj\Debug\net8.0\creditcard-system.Domain.AssemblyInfo.cs
+C:\Users\waliv\Projetos\dotnet\creditcard-system\src\creditcard-system.Domain\obj\Debug\net8.0\creditcard-system.Domain.csproj.CoreCompileInputs.cache
+C:\Users\waliv\Projetos\dotnet\creditcard-system\src\creditcard-system.Domain\obj\Debug\net8.0\creditcard-system.Domain.dll
+C:\Users\waliv\Projetos\dotnet\creditcard-system\src\creditcard-system.Domain\obj\Debug\net8.0\refint\creditcard-system.Domain.dll
+C:\Users\waliv\Projetos\dotnet\creditcard-system\src\creditcard-system.Domain\obj\Debug\net8.0\creditcard-system.Domain.pdb
+C:\Users\waliv\Projetos\dotnet\creditcard-system\src\creditcard-system.Domain\obj\Debug\net8.0\ref\creditcard-system.Domain.dll

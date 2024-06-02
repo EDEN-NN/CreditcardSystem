@@ -1,0 +1,5 @@
+C:\Users\waliv\Projetos\dotnet\creditcard-system\src\creditcard-system.Infra\obj\Debug\net8.0\creditcard-system.Infra.csproj.AssemblyReference.cache
+C:\Users\waliv\Projetos\dotnet\creditcard-system\src\creditcard-system.Infra\obj\Debug\net8.0\creditcard-system.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waliv\Projetos\dotnet\creditcard-system\src\creditcard-system.Infra\obj\Debug\net8.0\creditcard-system.Infra.AssemblyInfoInputs.cache
+C:\Users\waliv\Projetos\dotnet\creditcard-system\src\creditcard-system.Infra\obj\Debug\net8.0\creditcard-system.Infra.AssemblyInfo.cs
+C:\Users\waliv\Projetos\dotnet\creditcard-system\src\creditcard-system.Infra\obj\Debug\net8.0\creditcard-system.Infra.csproj.CoreCompileInputs.cache
