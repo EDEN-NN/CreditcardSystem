@@ -13,3 +13,4 @@ C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Application
 C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Application\obj\Debug\net8.0\refint\CreditcardSystem.Application.dll
 C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Application\obj\Debug\net8.0\CreditcardSystem.Application.pdb
 C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Application\obj\Debug\net8.0\ref\CreditcardSystem.Application.dll
+C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Application\obj\Debug\net8.0\CreditcardSystem.Application.sourcelink.json

@@ -6,7 +6,7 @@ namespace CreditcardSystem.API.Controllers;
 
 [ApiController]
 [Route("")]
-public class AuthController : Controller
+public class AuthController : ApiController
 {
     private readonly AuthService _authService;
 

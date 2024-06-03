@@ -24,6 +24,7 @@ public enum ExceptionType
     EmailAlreadyInUseException,
     NotFoundException,
     UserAlreadyExists,
+    UnauthorizedTokenException,
     Validation,
     Exception
 }

@@ -18,10 +18,10 @@ public class CreditcardService
         _userService = userService;
     }
 
-    public async Task<List<CreditcardResponse>> GetAllCreditcards()
+    public async Task<List<CreditcardResponse>> GetAllCreditcards(Guid userId)
     {
         List<CreditcardResponse> creditcardResponses = new List<CreditcardResponse>();
-        List<Creditcard> creditcards = await _creditcardRepository.GetAllCreditcards();
+        List<Creditcard> creditcards = await _creditcardRepository.GetAllCreditcards(userId);
         creditcards.ForEach(creditcard =>
         {
             var creditcardRespose = (CreditcardResponse)creditcard;
@@ -44,9 +44,12 @@ public class CreditcardService
         return (CreditcardResponse)creditcard;
     }
 
-    public async Task<CreditcardResponse> SaveCreditcard(CreditcardRequest creditcardRequest)
+    public async Task<CreditcardResponse> SaveCreditcard(
+        CreditcardRequest creditcardRequest,
+        Guid userId
+    )
     {
-        var userFromDb = await _userService.GetUserById(creditcardRequest.OwnerId);
+        var userFromDb = await _userService.GetUserById(userId);
         var creditcard = new Creditcard(
             creditcardRequest.CardName,
             creditcardRequest.CardType,

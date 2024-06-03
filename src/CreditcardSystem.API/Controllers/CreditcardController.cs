@@ -1,3 +1,4 @@
+using System.Security.Claims;
 using CreditcardSystem.Application.Dtos.Request;
 using CreditcardSystem.Application.Dtos.Response;
 using CreditcardSystem.Application.Services;
@@ -8,7 +9,7 @@ namespace CreditcardSystem.API.Controllers;
 
 [ApiController]
 [Route("creditcards")]
-public class CreditcardController : Controller
+public class CreditcardController : ApiController
 {
     private readonly CreditcardService _creditCardService;
 
@@ -21,7 +22,7 @@ public class CreditcardController : Controller
     [HttpGet]
     public async Task<IActionResult> GetAllCreditcards()
     {
-        return Ok(await _creditCardService.GetAllCreditcards());
+        return Ok(await _creditCardService.GetAllCreditcards(this.UserId));
     }
 
     [Authorize]
@@ -35,7 +36,7 @@ public class CreditcardController : Controller
     [HttpPost]
     public async Task<IActionResult> SaveCreditcard(CreditcardRequest creditcardRequest)
     {
-        return Accepted(await _creditCardService.SaveCreditcard(creditcardRequest));
+        return Accepted(await _creditCardService.SaveCreditcard(creditcardRequest, this.UserId));
     }
 
     [Authorize]

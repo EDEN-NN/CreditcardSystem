@@ -9,3 +9,4 @@ C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Domain\obj\
 C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Domain\obj\Debug\net8.0\refint\CreditcardSystem.Domain.dll
 C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Domain\obj\Debug\net8.0\CreditcardSystem.Domain.pdb
 C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Domain\obj\Debug\net8.0\ref\CreditcardSystem.Domain.dll
+C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Domain\obj\Debug\net8.0\CreditcardSystem.Domain.sourcelink.json

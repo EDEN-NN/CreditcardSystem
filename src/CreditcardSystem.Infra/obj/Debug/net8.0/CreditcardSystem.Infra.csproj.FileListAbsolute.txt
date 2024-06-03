@@ -17,3 +17,4 @@ C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Infra\obj\D
 C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Infra\obj\Debug\net8.0\CreditcardSystem.Infra.pdb
 C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Infra\obj\Debug\net8.0\CreditcardSystem.Infra.genruntimeconfig.cache
 C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Infra\obj\Debug\net8.0\ref\CreditcardSystem.Infra.dll
+C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.Infra\obj\Debug\net8.0\CreditcardSystem.Infra.sourcelink.json

@@ -118,4 +118,14 @@ public class AuthService
 
         return jwt;
     }
+
+    public async Task<string> GetAuthToken(string token)
+    {
+        var formatedToken = token.Split(' ').GetValue(1).ToString().Replace('"', ' ');
+        var tokenReceived = new JwtSecurityTokenHandler().ReadToken(formatedToken);
+        var tokenData = (JwtSecurityToken)tokenReceived;
+        var userId = tokenData.Claims.ToList().Find(claim => claim.Type == "Id");
+
+        return userId.ToString();
+    }
 }

@@ -22,9 +22,12 @@ public class CreditcardRepository : ICreditcardRepository
         return Task.CompletedTask;
     }
 
-    public async Task<List<Creditcard>> GetAllCreditcards()
+    public Task<List<Creditcard>> GetAllCreditcards(Guid userId)
     {
-        return await _context.Creditcards.AsNoTracking().ToListAsync();
+        return _context
+            .Creditcards.AsNoTracking()
+            .Where(creditcard => creditcard.OwnerId == userId)
+            .ToListAsync();
     }
 
     public async Task<Creditcard?> GetCreditcardById(Guid creditcardId)

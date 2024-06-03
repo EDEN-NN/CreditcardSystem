@@ -143,3 +143,4 @@ C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.API\bin\Deb
 C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.API\bin\Debug\net8.0\Scrutor.dll
 C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
 C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\waliv\Projetos\dotnet\CreditcardSystem\src\CreditcardSystem.API\obj\Debug\net8.0\CreditcardSystem.API.sourcelink.json

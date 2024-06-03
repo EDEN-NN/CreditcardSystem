@@ -1,3 +1,4 @@
+using System.Security.Claims;
 using CreditcardSystem.Application.Dtos.Request;
 using CreditcardSystem.Application.Dtos.Services;
 using CreditcardSystem.Application.Services;
@@ -8,7 +9,7 @@ namespace CreditcardSystem.API.Controllers;
 
 [ApiController]
 [Route("users")]
-public class UserController : ControllerBase
+public class UserController : ApiController
 {
     private readonly UserService _userService;
     private readonly CreditcardService _creditCardService;
@@ -24,6 +25,12 @@ public class UserController : ControllerBase
     public async Task<IActionResult> GetAllUsers()
     {
         return Ok(await _userService.GetAllUsers());
+    }
+
+    [HttpGet("test"), Authorize]
+    public async Task<IActionResult> GetId()
+    {
+        return Ok(new { id = ClaimTypes.Sid });
     }
 
     [Authorize]

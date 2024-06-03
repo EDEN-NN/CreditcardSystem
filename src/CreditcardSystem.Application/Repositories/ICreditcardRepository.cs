@@ -4,7 +4,7 @@ using CreditcardSystem.Domain.Models;
 
 public interface ICreditcardRepository
 {
-    Task<List<Creditcard>> GetAllCreditcards();
+    Task<List<Creditcard>> GetAllCreditcards(Guid userId);
     Task<Creditcard?> GetCreditcardById(Guid creditcardId);
 
     Task<Creditcard> UpdateCreditcard(Creditcard creditcard);
